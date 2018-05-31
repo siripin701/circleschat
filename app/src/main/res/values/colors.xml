@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#304FFE</color>
+    <color name="colorPrimaryDark">#0026CA</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="pink_line">#e978a2</color>
+    <color name="date_bg">#50ec84</color>
+    <color name="light_grey_background">#8d8f8e</color>
+    <color name="blue_background">#90CAF9</color>
+    <color name="light_blue_background">#E3F2FD</color>
+    <color name="white">#fff</color>
+</resources>
